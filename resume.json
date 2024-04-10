@@ -28,7 +28,7 @@
                 "2017.09.01",
                 "2020.06.30"
             ],
-            "school": "新乡学院(函授)",
+            "school": "新乡学院",
             "major": "小学教育",
             "academic_degree": "专科",
             "dataIndex": 0
@@ -75,13 +75,8 @@
         {
             "skill_name": "Python",
             "skill_level": 90,
-            "skill_desc": "熟练使用标准库与常用的第三方包, 如: requests, beautifulsoup4, playwright, pywin32。",
+            "skill_desc": "熟练使用标准库与常用的第三方包, 如: requests, beautifulsoup4, playwright, pywin32, Django。",
             "dataIndex": 4
-        },
-        {
-            "skill_name": "Django",
-            "skill_level": 85,
-            "skill_desc": "使用Django框架进行后端开发, 配合Jinja2进行前后端不分离开发, 使用DRF进行后端分离开发。"
         }
     ],
     "projectList": [
