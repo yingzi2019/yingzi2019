@@ -18,9 +18,9 @@
         "mobile": "15136764093",
         "github": "https://github.com/yingzi2019/",
         "zhihu": "",
-        "workExpYear": "4.5年",
+        "workExpYear": "4年",
         "workPlace": "郑州",
-        "positionTitle": "前端开发工程师"
+        "positionTitle": "Python全栈开发工程师"
     },
     "educationList": [
         {
@@ -55,10 +55,10 @@
             "dataIndex": 0
         },
         {
-            "skill_name": "CSS",
-            "skill_level": 90,
-            "skill_desc": "熟练使用css变量与css运算以及transition、transform进行变换。",
-            "dataIndex": 4
+            "skill_name": "TypeScript",
+            "skill_level": 80,
+            "skill_desc": "熟练使用高级类型(交叉类型, 联合类型, 映射类型)以及类型守卫进行类型推断。",
+            "dataIndex": 1
         },
         {
             "skill_name": "Vue3",
@@ -67,16 +67,10 @@
             "dataIndex": 2
         },
         {
-            "skill_name": "TypeScript",
-            "skill_level": 80,
-            "skill_desc": "熟练使用高级类型(交叉类型, 联合类型, 映射类型)以及类型守卫进行类型推断。",
-            "dataIndex": 3
-        },
-        {
             "skill_name": "Python",
             "skill_level": 90,
             "skill_desc": "熟练使用标准库与常用的第三方包, 如: requests, beautifulsoup4, playwright, pywin32, Django。",
-            "dataIndex": 4
+            "dataIndex": 3
         }
     ],
     "projectList": [
@@ -93,6 +87,13 @@
             "project_role": "开发者, 维护者",
             "project_desc": "因为公司具有许多兄弟公司, 每个兄弟公司都需要有单独的网站, 所以此项目开始开发, 因为需要SEO, 所以使用Django+Jinja2结合, 快速构建项目, 之后将渲染出来的文件上传至服务器, 并使用Nginx进行代理。",
             "project_content": "使用Django+Jinja2构建项目, 并快速生成网站, 使用环境变量文件判断当前运行模式, 生成的网站: ccp.cn, csc.cn, shbly.cn, chimoph.com。"
+        },
+        {
+            "project_time": "2021.07.24,2023.07.28",
+            "project_name": "爬虫",
+            "project_role": "开发者",
+            "project_desc": "因为公司是医药行业, 所以需要行业信息, 爬取药监局, 兽药, FBA 等医药行业网站信息",
+            "project_content": "使用requests, beautifulsoup4, playwright, mitmproxy 构建项目, 使用定时任务定时抓取数据将数据存储至数据库中。 "
         }
     ],
     "workList": [],
